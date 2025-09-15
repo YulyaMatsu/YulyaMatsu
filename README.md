@@ -11,6 +11,8 @@
 
 ✧ My hobby is painting, check my [portfolio](https://phynxart.carrd.co/#)!<br/>
 
+✧ Currently I'm working on my game (Unity) <br/>
+
 ✧ I'm keen of learning something new and solving issues ∠( ᐛ 」∠)_<br/>
 
 # 👩🏻‍💻 Skills:
