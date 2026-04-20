@@ -9,10 +9,6 @@
 # About me:
 ✧ I'm studying [Computer Science and Intelligent Systems](https://www.eaiib.agh.edu.pl/informatyka-i-systemy-inteligentne/) at [AGH University of Cracow](https://www.agh.edu.pl/).<br/>
 
-✧ My hobby is painting, check my [portfolio](https://phynxart.carrd.co/#)!<br/>
-
-✧ Currently I'm working on my game (Unity). <br/>
-
 ✧ I'm keen of learning something new and solving issues ∠( ᐛ 」∠)_<br/>
 
 # Skills:
